@@ -1,2 +1,22 @@
-# limos
-STM32 FreeRTOS implementation for an Audio Playback Device (MP3/FLAC Player/Digital Audio Player)
+```
+                           ,----,                                    
+                         ,/   .`|              ,----..               
+  ,----..     ,---,    ,`   .'  :,-.----.     /   /   \   .--.--.    
+ /   /   \ ,`--.' |  ;    ;     /\    /  \   /   .     : /  /    '.  
+|   :     :|   :  :.'___,/    ,' ;   :    \ .   /   ;.  \  :  /`. /  
+.   |  ;. /:   |  '|    :     |  |   | .\ :.   ;   /  ` ;  |  |--`   
+.   ; /--` |   :  |;    |.';  ;  .   : |: |;   |  ; \ ; |  :  ;_     
+;   | ;    '   '  ;`----'  |  |  |   |  \ :|   :  | ; | '\  \    `.  
+|   : |    |   |  |    '   :  ;  |   : .  /.   |  ' ' ' : `----.   \ 
+.   | '___ '   :  ;    |   |  '  ;   | |  \'   ;  \; /  | __ \  \  | 
+'   ; : .'||   |  '    '   :  |  |   | ;\  \\   \  ',  / /  /`--'  / 
+'   | '/  :'   :  |    ;   |.'   :   ' | \.' ;   :    / '--'.     /  
+|   :    / ;   |.'     '---'     :   : :-'    \   \ .'    `--'---'   
+ \   \ .'  '---'                 |   |.'       `---`                 
+  `---`                          `---'                               
+
+```
+[Wiki]() | [Site]() | [Releases]()
+
+**CITROS**
+*An audio player OS for STM32 microcontrollers, designed for openness, replication, documentation, and customization.*
