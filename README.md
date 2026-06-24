@@ -9,4 +9,4 @@
 [Wiki]() | [Site]() | [Releases]()
 
 **CITROS**
-*An audio player OS for STM32 microcontrollers, designed for openness, replication, documentation, and customization.*
+*An audio player OS for STM32 microcontrollers, designed for openness, replication, documentation, and customization. Pronounced just like "citrus".*
